@@ -1,0 +1,7 @@
+{
+  "name": "AlamedaTVFrontEnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
